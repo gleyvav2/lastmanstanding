@@ -26,7 +26,8 @@
       "mcp__unreal_editor__take_editor_screenshot",
       "mcp__unreal_editor__wait_pie_seconds",
       "mcp__unreal_inspector__get_blueprint_material_properties",
-      "mcp__unreal_editor__fetch_material_best_practices"
+      "mcp__unreal_editor__fetch_material_best_practices",
+      "Bash(powershell.exe *)"
     ]
   }
 }
