@@ -27,7 +27,22 @@
       "mcp__unreal_editor__wait_pie_seconds",
       "mcp__unreal_inspector__get_blueprint_material_properties",
       "mcp__unreal_editor__fetch_material_best_practices",
-      "Bash(powershell.exe *)"
+      "Bash(powershell.exe *)",
+      "mcp__unreal_inspector__get_available_actors_in_level",
+      "mcp__unreal_editor__bp_agent",
+      "mcp__unreal_editor__fetch_blueprint_best_practices",
+      "mcp__unreal_inspector__import_PropertyModification_understanding",
+      "mcp__unreal_inspector__import_ActorComponentsAndSubobjects_understanding",
+      "mcp__unreal_inspector__import_AssetType_Blueprint_understanding",
+      "mcp__unreal_inspector__get_unreal_context",
+      "mcp__unreal_inspector__review_blueprint",
+      "mcp__unreal_inspector__quicksearch",
+      "mcp__unreal_inspector__get_headless_status",
+      "Bash(python -c ' *)",
+      "Bash(/c/Users/gleyv/AppData/Local/Microsoft/WindowsApps/python3.exe -c ' *)",
+      "Bash(cmd /c \"where python\")",
+      "Bash(cmd /c \"python --version\")",
+      "mcp__unreal_inspector__get_blueprint_properties_specifiers"
     ]
   }
 }
