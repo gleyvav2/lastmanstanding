@@ -42,7 +42,19 @@
       "Bash(/c/Users/gleyv/AppData/Local/Microsoft/WindowsApps/python3.exe -c ' *)",
       "Bash(cmd /c \"where python\")",
       "Bash(cmd /c \"python --version\")",
-      "mcp__unreal_inspector__get_blueprint_properties_specifiers"
+      "mcp__unreal_inspector__get_blueprint_properties_specifiers",
+      "mcp__unreal_inspector__grep",
+      "mcp__unreal_inspector__get_text_file_contents",
+      "mcp__unreal_inspector__inspect_current_level",
+      "Bash(xargs ls *)",
+      "mcp__unreal_editor__create_input_actions",
+      "mcp__unreal_editor__create_assets",
+      "mcp__unreal_editor__add_input_action_to_mapping_context",
+      "mcp__unreal_inspector__fetch_ui_best_practices",
+      "mcp__unreal_editor__edit_widget",
+      "mcp__unreal_inspector__launch_unreal_project",
+      "mcp__unreal_editor__create_blueprint_interface",
+      "mcp__unreal_editor__search_fab"
     ]
   }
 }
