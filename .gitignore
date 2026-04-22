@@ -13,3 +13,6 @@ Config/DefaultEditorPerProjectUserSettings.ini
 *.suo
 *.xcodeproj
 *.xcworkspace
+package/
+Build/Windows/FileOpenOrder/
+.claude/scheduled_tasks.lock
